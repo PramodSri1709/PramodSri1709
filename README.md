@@ -127,8 +127,18 @@ Your small help goes a long way. :heart:
 - High School (2016-2017)
 <br>
 <hr>
+<br>
 
+<p style="font-size: 22px;">Interests:</p>
 
+- ✈️ Travel
+- 📚 Reading
+- 🖥️  Web-Development
+- 💻 Working on My own Projects
+- 🗺️  Exploring
+
+<br>  
+<hr>
 <p style="font-size: 22px;">Connect with me:</p>
 
 <p align="center">
