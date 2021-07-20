@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Developers</h1>
 
-<img width="100%" height="auto" src="https://imgur.com/5oydSFC.gif" width="500" height="100"/>
+<img width="100%" height="auto" src="https://imgur.com/SxKBa2j.gif" width="500" height="100"/>
 
 <hr>
 
