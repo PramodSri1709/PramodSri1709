@@ -116,7 +116,7 @@ Your small help goes a long way. :heart:
 
 <br>
 
-<p style="font-size: 22px;">Education:</p>
+## Education:
 
 <h3>Vels Institute of Science Technology and Advance Studies</h3>
 
@@ -129,7 +129,7 @@ Your small help goes a long way. :heart:
 <hr>
 <br>
 
-<p style="font-size: 22px;">Interests:</p>
+## Interests
 
 - ✈️ Travel
 - 📚 Reading
@@ -139,7 +139,7 @@ Your small help goes a long way. :heart:
 
 <br>  
 <hr>
-<p style="font-size: 22px;">Connect with me:</p>
+## Contact Me:
 
 <p align="center">
 
