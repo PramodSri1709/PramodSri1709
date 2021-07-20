@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **prasma403@gmail.com**
 
-- ⚡ Fact **Hear about the new restaurent called karma? <br><br>there's no menu : you get what you deserve...**
+- ⚡ Fun Fact <br>**Hear about the new restaurent called karma? <br><br>there's no menu : you get what you deserve...**
 
 <hr>
 
