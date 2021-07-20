@@ -5,9 +5,16 @@
 
 <hr>
 
-<h3 align="center">I'm a passionate self-taught Full Stack Developer from India.</h3>
+<br>
+
+## 🔎 Objective
+<br>
+
+**<h3 align="center">
+Passionate and enthusiastic Final year student looking for opportunities to exhibit my treasured competence and to dedicate my involvement in a well functioning team.</h3>**
 
 <br>
+
 
 ## 🙋‍♂️ About Me
 
