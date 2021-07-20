@@ -116,6 +116,18 @@ Your small help goes a long way. :heart:
 
 <br>
 
+<p style="font-size: 22px;">Education:</p>
+
+<h3>Vels Institute of Science Technology and Advance Studies</h3>
+
+- Bachelor of Engineeing in Computer Science (2017-2021)
+
+<h3>St.Joseph Matriculation Higher Secondary School</h3>
+
+- High School (2016-2017)
+<br>
+<hr>
+
 
 <p style="font-size: 22px;">Connect with me:</p>
 
