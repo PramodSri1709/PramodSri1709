@@ -129,7 +129,7 @@ Your small help goes a long way. :heart:
 <hr>
 <br>
 
-## Interests
+## Interests:
 
 - ✈️ Travel
 - 📚 Reading
@@ -139,7 +139,8 @@ Your small help goes a long way. :heart:
 
 <br>  
 <hr>
-## Contact Me:
+        
+## Contact-Me:
 
 <p align="center">
 
