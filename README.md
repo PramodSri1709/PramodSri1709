@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Developers</h1>
 
-<img width="100%" height="auto" src="https://imgur.com/SxKBa2j.gif" width="500" height="100"/>
+<img width="90%" height="auto" src="https://imgur.com/SxKBa2j.gif" width="500" height="100"/>
 
 <hr>
 
@@ -149,7 +149,7 @@ Your small help goes a long way. :heart:
                 src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
         </a>
         <a class="flex-container" href="http://linkedin.com/in/pramod-sri-888079162" style="text-decoration: none; margin: 10px; margin-top: 15px; margin-left: 0px;">
-            <h2 style="color: whitesmoke;">- Linkidin</h2>
+            <h2 style="color: whitesmoke;">- Linkedin</h2>
     </a>
 </div>   
 
