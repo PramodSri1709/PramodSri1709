@@ -140,27 +140,13 @@ Your small help goes a long way. :heart:
 
 <br>  
 <hr>
-        
-## Contact-Me:
 
+## Connect with me:
 <p align="center">
 
-<div class="container" style="display: flex; ">
-        <a class="flex-container" href="http://linkedin.com/in/pramod-sri-888079162"  style="text-decoration: none; margin: 10px; margin-left: 0;"><img
-                src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-        </a>
-        <a class="flex-container" href="http://linkedin.com/in/pramod-sri-888079162" style="text-decoration: none; margin: 10px; margin-top: 15px; margin-left: 0px;">
-            <h2 style="color: whitesmoke;">- Linkedin</h2>
-    </a>
-</div>   
-
-<div class="container" style="display: flex;"">
-        <a class="flex-container"  href = "https://www.instagram.com/pramod_sri_1709/"  style="text-decoration: none; margin: 10px; margin-left: 0;"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-        </a>
-        <a class="flex-container"  href = "https://www.instagram.com/pramod_sri_1709/" style="text-decoration: none; margin: 10px; margin-top: 15px;  margin-left: 0px;">
-            <h2 style="color: whitesmoke;">- Instagram</h2>
-    </a>
-</div>   
+<a href = "https://www.linkedin.com/in/pramod-sri-888079162/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/pramodsri17091"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/pramod_sri_1709/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
