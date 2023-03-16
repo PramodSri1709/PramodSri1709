@@ -1,13 +1,24 @@
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, World!</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Developers!</h1>
 
 <h2 align="center"> I'm Pramod :) </h2>
 
 <p align="center">
-<img width="80%" height="70%" src="https://imgur.com/SxKBa2j.gif"/>
+
+<img width="90%" height="70%" src="https://imgur.com/EfJ0BTl.gif"/>
+
 
 <hr>
 
+## Connect with me:
+<p align="center">
+
+[![Twitter Followers](https://img.shields.io/twitter/follow/pramodsri17091?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/pramodsri17091) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/pramodsri1709?logo=GitHub&style=for-the-badge)](https://github.com/pramodsri1709) &nbsp; [![GitHub Stars](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-sri) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Download%20My%20Resume)](https://drive.google.com/file/d/17Hj4Gcd1lF95v9xS5S2DzGCD6diW15cv)
+
+
+</p>
+
+<hr>
 <br>
 
 ## 🔎 Objective
@@ -63,14 +74,11 @@ Your small help goes a long way. :heart:
 <br>
 
 <p align="center"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icons8.com/icon/13679/java" style="margin-right: 50px;"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" style="margin-right: 50px;"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://icons8.com/icon/79873/rest-api" style="margin-right: 50px;"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right: 50px;"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 50px;"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right: 50px;"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" style="margin-right: 50px;"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/null/api.png" style="margin-right: 50px;"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/null/selenium-test-automation.png" style="margin-right: 50px;"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right: 50px;"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="margin-right: 50px;"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" style="margin-right: 50px;"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin-right: 50px;"/> </a>    
    
 </p>
@@ -102,7 +110,7 @@ Your small help goes a long way. :heart:
   <p align="center">
     <a href="https://github.com/PramodSri1709/github-readme-stats"><img alt="PramodSri1709's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PramodSri1709&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
     <p align="center">
-    <br>
+    <br> 
   <a href="https://github.com/PramodSri1709/github-readme-stats"><img alt="PramodSri1709's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramodSri1709&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
   </p>
@@ -146,17 +154,6 @@ Your small help goes a long way. :heart:
 - 🗺️  Exploring
 
 <br>  
-<hr>
-
-## Connect with me:
-<p align="center">
-
-<a href = "https://www.linkedin.com/in/pramod-sri-888079162/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/pramodsri17091"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/pramod_sri_1709/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
-
 <hr>
 
 <br>
