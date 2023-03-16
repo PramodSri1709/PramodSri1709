@@ -1,11 +1,11 @@
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Developers!</h1>
+<h1 align="center">Hey, <img src="https://imgur.com/bIDP87t.gif" width="50px"> Developers! </h1>
 
 <h2 align="center"> I'm Pramod :) </h2>
 
 <p align="center">
 
-<img width="90%" height="70%" src="https://imgur.com/EfJ0BTl.gif"/>
+<img width="80%" height="70%" src="https://imgur.com/EfJ0BTl.gif"/>
 
 
 <hr>
@@ -123,9 +123,6 @@ Your small help goes a long way. :heart:
 <br/>
 <br/>
 
-<a href="https://github.com/PramodSri1709/github-readme-activity-graph"><img alt="PramodSri1709's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PramodSri1709&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
 <hr>
