@@ -1,5 +1,7 @@
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Developers</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, World!</h1>
+
+<h2 align="center"> I'm Pramod :) </h2>
 
 <p align="center">
 <img width="80%" height="70%" src="https://imgur.com/SxKBa2j.gif"/>
@@ -12,7 +14,12 @@
 <br>
 
 **<h3 align="center">
-Passionate and enthusiastic Final year student looking for opportunities to exhibit my treasured competence and to dedicate my involvement in a well functioning team.</h3>**
+Mastering Java || Selenium || API Testing || Appium || Maven || REST Api
+
+
+Experienced in Mastercard Project in banking sector worked on DMS - Dual message system and SMS - Single message sytem, having knowledge on Authorization , Clearing and Settlements
+
+Proficient in payment processing concepts, products, tools and technologies, including Single Message System (SMS\NICS), Dual Message System (DMS\Bank net) & Global Clearing Management System (GCMS).</h3>**
 
 <br>
 
@@ -21,7 +28,7 @@ Passionate and enthusiastic Final year student looking for opportunities to exhi
 
 <br>
 
-- 🔭 I’m currently working on Front-End Projects
+- 🔭 I’m currently working As a Test Engineer.
 
 - 🌱 I’m currently learning MERN Stack Development.
 
@@ -56,9 +63,9 @@ Your small help goes a long way. :heart:
 <br>
 
 <p align="center"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right: 50px;"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icons8.com/icon/13679/java" style="margin-right: 50px;"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" style="margin-right: 50px;"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="margin-right: 50px;"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://icons8.com/icon/79873/rest-api" style="margin-right: 50px;"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right: 50px;"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 50px;"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right: 50px;"/> </a> 
