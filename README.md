@@ -1,9 +1,13 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+</style>
 
-<h1 align="center">Hey, <img src="https://imgur.com/bIDP87t.gif" width="50px"> Developers! </h1>
+<h1 align="center" style="font-family: 'Space Mono', monospace">Hey, <img src="https://imgur.com/bIDP87t.gif" width="50px"> Developers! </h1>
 
-<h2 align="center"> I'm Pramod :) </h2>
+<h2 align="center" style="font-family: 'Space Mono', monospace"> I'm Pramod </h2>
 
-<p align="center">
+<h1 align="center"><img src="https://img.icons8.com/neon/96/null/face-id.png" width="50"></h1>
+
 
 <img width="80%" height="70%" src="https://imgur.com/EfJ0BTl.gif"/>
 
@@ -24,13 +28,13 @@
 ## 🔎 Objective
 <br>
 
-**<h3 align="center">
+*<h3 > 
 Mastering Java || Selenium || API Testing || Appium || Maven || REST Api
 
 
 Experienced in Mastercard Project in banking sector worked on DMS - Dual message system and SMS - Single message sytem, having knowledge on Authorization , Clearing and Settlements
 
-Proficient in payment processing concepts, products, tools and technologies, including Single Message System (SMS\NICS), Dual Message System (DMS\Bank net) & Global Clearing Management System (GCMS).</h3>**
+Proficient in payment processing concepts, products, tools and technologies, including Single Message System (SMS\NICS), Dual Message System (DMS\Bank net) & Global Clearing Management System (GCMS).</h3>*
 
 <br>
 
