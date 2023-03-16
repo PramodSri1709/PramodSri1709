@@ -7,7 +7,7 @@
 <h1 align="center"><img src="https://img.icons8.com/neon/96/null/face-id.png" width="50"></h1>
 
 
-<img width="80%" height="70%" align="center" src="https://imgur.com/EfJ0BTl.gif"/>
+<h1 align="center"><img width="80%" height="70%" src="https://imgur.com/EfJ0BTl.gif"/></h1>
 
 
 <hr>
