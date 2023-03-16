@@ -1,6 +1,3 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
-</style>
 
 <h1 align="center" style="font-family: 'Space Mono', monospace">Hey, <img src="https://imgur.com/bIDP87t.gif" width="50px"> Developers! </h1>
 
