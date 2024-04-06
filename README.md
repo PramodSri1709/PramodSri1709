@@ -1,171 +1,32 @@
+<h1 align="center">Hi 👋, I'm Pramod Srinivas</h1>
+<h3 align="center">Skilled Test Engineer</h3>
 
+<p align="left"> <a href="https://twitter.com/pramodsri17091" target="blank"><img src="https://img.shields.io/twitter/follow/pramodsri17091?logo=twitter&style=for-the-badge" alt="pramodsri17091" /></a> </p>
 
-<h1 align="center">Hey, <img src="https://imgur.com/bIDP87t.gif" width="50px"> Developers! </h1>
+- 🔭 I’m currently working on **Automation Testing**
 
-<h2 align="center"> I'm Pramod </h2>
+- 🌱 I’m currently learning **API Testing**
 
-<h1 align="center"><img src="https://img.icons8.com/neon/96/null/face-id.png" width="50"></h1>
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pramod-sri/](https://www.linkedin.com/in/pramod-sri/)
 
+- 📝 I regularly write articles on [https://about.me/pramodsrinivas](https://about.me/pramodsrinivas)
 
-<h1 align="center"><img width="80%" height="70%" src="https://imgur.com/EfJ0BTl.gif"/></h1>
-
-
-<hr>
-
-## Connect with me:
-<p align="center">
-
-[![Twitter Followers](https://img.shields.io/twitter/follow/pramodsri17091?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/pramodsri17091) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/pramodsri1709?logo=GitHub&style=for-the-badge)](https://github.com/pramodsri1709) &nbsp; [![GitHub Stars](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-sri) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Download%20My%20Resume)](https://drive.google.com/file/d/17Hj4Gcd1lF95v9xS5S2DzGCD6diW15cv)
-
-
-</p>
-
-<hr>
-<br>
-
-## 🔎 Objective
-<br>
-
-*<h3 > 
-Mastering Java || Selenium || API Testing || Appium || Maven || REST Api
-
-
-Experienced in Mastercard Project in banking sector worked on DMS - Dual message system and SMS - Single message sytem, having knowledge on Authorization , Clearing and Settlements
-
-Proficient in payment processing concepts, products, tools and technologies, including Single Message System (SMS\NICS), Dual Message System (DMS\Bank net) & Global Clearing Management System (GCMS).</h3>*
-
-<br>
-
-
-## 🙋‍♂️ About Me
-
-<br>
-
-- 🔭 I’m currently working As a Test Engineer.
-
-- 🌱 I’m currently learning MERN Stack Development.
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 💬 Ask me about **Selenium, Maven, TestNG**
 
 - 📫 How to reach me **prasma403@gmail.com**
 
-- ⚡ Fun Fact <br>**Hear about the new restaurent called karma? <br><br>there's no menu : you get what you deserve...**
+- 📄 Know about my experiences [https://drive.google.com/file/d/18C3hKz3e1YC3CI9XhinKg1Q22khtKeR3/view?usp=drive_link](https://drive.google.com/file/d/18C3hKz3e1YC3CI9XhinKg1Q22khtKeR3/view?usp=drive_link)
 
-<hr>
+- ⚡ Fun fact **It turns out my life events have a weird sense of timing with movie releases**
 
-<br>
-
-
-Are you considering to support the project by donating to me? Please DON'T!!  
-
-Instead, Help India fight 2nd deadly wave of COVID,  
-Thousands of people are dying in India for lack of Oxygen & COVID related necessary infrastructure.  
-
-Visit [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org) and make a small donation to help us fight covid and overcome this crisis.   
-Your small help goes a long way. :heart:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pramodsri17091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pramodsri17091" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pramod-sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramod-sri" height="30" width="40" /></a>
+<a href="https://codesandbox.com/pramodsri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pramodsri" height="30" width="40" /></a>
 </p>
 
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<hr>
-
-<br>
-
-## 🚀 Languages and Tools:
-
-<br>
-
-<p align="center"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" style="margin-right: 50px;"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/null/api.png" style="margin-right: 50px;"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/null/selenium-test-automation.png" style="margin-right: 50px;"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right: 50px;"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="margin-right: 50px;"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin-right: 50px;"/> </a>    
-   
-</p>
-
-<br/>
-
-
-
-<p align="center">
-    <a href="https://github.com/PramodSri1709/github-readme-streak-stats">
-        <img title="🔥 "Get streak stats for your profile at git.io/streak-stats" alt="PramodSri1709's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PramodSri1709&theme=dark&hide_border=true&stroke=white&background=060A0CD0"/>
-    </a>
-    
-
-</p>
-
-<br>
-
-<hr>
-
-<br>
-
-## 📊 My Github Stats
-
-
-
-  <br/>
-
-  <p align="center">
-    <a href="https://github.com/PramodSri1709/github-readme-stats"><img alt="PramodSri1709's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PramodSri1709&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-    <p align="center">
-    <br> 
-  <a href="https://github.com/PramodSri1709/github-readme-stats"><img alt="PramodSri1709's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramodSri1709&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
-  </p>
-  
-  <br/>
-  <br>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<br/>
-
-<hr>
-
-<br>
-
-## Education:
-
-<h3>Vels Institute of Science Technology and Advance Studies</h3>
-
-- Bachelor of Engineeing in Computer Science (2017-2021)
-
-<h3>St.Joseph Matriculation Higher Secondary School</h3>
-
-- High School (2016-2017)
-<br>
-<hr>
-<br>
-
-## Interests:
-
-- ✈️ Travel
-- 📚 Reading
-- 🖥️  Web-Development
-- 💻 Working on My own Projects
-- 🗺️  Exploring
-
-<br>  
-<hr>
-
-<br>
-
-## ❤ Views and Followers
-<a href="https://github.com/PramodSri1709/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=PramodSri1709">
-</a>
-<a href="https://github.com/PramodSri1709?tab=followers"><img src="https://img.shields.io/github/followers/PramodSri1709?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<br>
-<br>
-<hr>
-
-<br>
-Made with 🤍 and JavaScript.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodsri1709&show_icons=true&locale=en&layout=compact" alt="pramodsri1709" /></p>
